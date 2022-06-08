@@ -1,0 +1,8 @@
+name: SkyBlock
+version: '${project.version}'
+main: com.zyneonstudios.skyblock.SkyBlock
+api-version: 1.18
+depend: [ ZyneonAPI ]
+authors: [ nerotvlive ]
+description: SkyBlock for Zyneon
+website: https://www.zyneonstudios.com
